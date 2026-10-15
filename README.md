@@ -2,6 +2,8 @@
 
 Portfolio media hosted on GitHub Pages: https://amanjayedi.github.io/folio-docs/
 
-- `Armore.html` — Ar(more) video
-- `Hendricks-Sequenz04.html` — Sequenz 04 video
-- `sensor-pod/` — Pocket Sensor Pod design and carry concepts (merged from sensor-pod-concepts)
+| Project | Link |
+|---|---|
+| Pocket Sensor Pod — design and carry concepts | https://amanjayedi.github.io/folio-docs/sensor-pod/ |
+| Ar(more) — video (Murillo) | https://amanjayedi.github.io/folio-docs/Armore.html |
+| Sequenz 04 — video (Ben Hendricks) | https://amanjayedi.github.io/folio-docs/Hendricks-Sequenz04.html |
